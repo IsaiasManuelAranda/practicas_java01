@@ -1,0 +1,74 @@
+//Tipo de dato byte: Este tipo de dato va de -128 a 127
+class MiClase {
+    public static void main(String chy[]){
+        byte valor_minimo_byte = -128;
+        System.out.println(valor_minimo_byte);
+        byte valor_maximo_byte = 127;
+        System.out.println(valor_maximo_byte);
+    }
+}
+//Tipo de dato short: Este tipo de dato va de -32768 a 32767
+class MiClase{
+    public static void main(String chy[]){
+        short valor_minimo_short = -32768;
+        System.out.println(valor_minimo_short);
+        short valor_maximo_short = 32767;
+        System.out.println(valor_maximo_short);
+    }
+}
+//Tipo de dato int: Este tipo de dato va de -2147483648 a 2147483647
+class MiClase{
+    public static void main(String chy[]){
+        int valor_minimo_int = -2147483648;
+        System.out.println(valor_minimo_int);
+        int valor_maximo_int = 2147483647;
+        System.out.println(valor_maximo_int); 
+    }
+}
+//Tipo de dato long: Este tipo de dato va de -9223372036854775808 a 9223372036854775807
+class MiClase {
+    public static void main(String chy[]){
+        long valor_minimo_long = -9223372036854775808;
+        System.out.println(valor_minimo_long);
+        long valor_maximo_long = 9223372036854775807;
+        System.out.println(valor_maximo_long);     
+    }
+}
+//Tipo de dato float:Este tipo de dato va de -3.4 x10(38) a 3.4 x10(38)
+class MiClase {
+    public static void main(String chy[]){
+        float valor_minimo_float = -3.4;
+        System.out.println(valor_minimo_float);
+        float valor_maximo_float = 3.4;
+        System.out.println(valor_maximo_float);     
+    }
+}
+//Tipo de dato double: Este tipo de dato va de -1.8 x10(308) a 1.8 x10 (308)
+class MiClase {
+    public static void main(String chy[]){
+        double valor_minimo_double = -1.8;
+        System.out.println(valor_minimo_double);
+        double valor_maximo_double = 1.8;
+        System.out.println(valor_maximo_double);     
+    }
+}
+//Tipo de dato boolean: Estos solo almacenan datos Verdaderos y falsos
+class MiClase {
+    public static void main(String chy[]){
+        boolean valor_verdadero_bool = True;
+        System.out.println(valor_verdadero_bool);
+        boolean valor_falso_bool = False;
+        System.out.println(valor_falso_bool);     
+    }
+}
+//Tipo de dato char: Estos almacenan solo un caracter de distintos tipos
+class MiClase {
+    public static void main(String chy[]){
+        char valor_char ='@';
+        System.out.println(valor_char);
+        char valor_char1 = 'A';
+        System.out.println(valor_char1);
+        char valor_char2 = '5'; 
+        System.out.println(valor_char2);    
+    }
+}
